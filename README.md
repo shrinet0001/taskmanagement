@@ -34,24 +34,38 @@ A full-stack task management application with secure user authentication, built 
   - Username length validation
  
   - ## Core Application Files
-  - 
 src/App.tsx – Main app component with authentication flow
+
 src/main.tsx – App entry point with Redux store
+
 src/index.css – Tailwind styles
+
 src/store/store.ts – Redux store setup
+
 src/store/authSlice.ts – Authentication state management
+
 src/store/tasksSlice.ts – Tasks state management
+
 src/store/hooks.ts – Redux hooks
+
 src/components/AuthForm.tsx – Login/Register component
+
 src/components/TaskList.tsx – Main tasks dashboard
+
 src/components/TaskForm.tsx – Task creation/editing form
 
 ## Configuration Files
+
 package.json – Dependencies and scripts
+
 tsconfig.json – TypeScript configuration
+
 tailwind.config.js – Tailwind CSS configuration
+
 vite.config.ts – Vite build configuration
+
 index.html – HTML entry point
+
 .env.example – Environment variables template 
 
 ## Technology Stack
@@ -333,7 +347,7 @@ This project is ready for testing implementation. Recommended test coverage:
 - Task CRUD operations
 - Error handling
 
-### Backend Tests (Supabase)
+### Backend Tests
 - RLS policies verification
 - Database constraints
 - Authentication flows
