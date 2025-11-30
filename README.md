@@ -425,6 +425,14 @@ Potential features to add:
 - Ensure backend server is running and accessible
 - Check MongoDB connection is active
 
+- ## images of projcts
+   <img width="1147" height="621" alt="image" src="https://github.com/user-attachments/assets/bc3636fe-9fdd-4f73-aef9-e6df31e77639" />
+   
+   <img width="1154" height="624" alt="image" src="https://github.com/user-attachments/assets/f8034bd9-5cdd-4e75-953c-a85b3400762a" />
+
+- <img width="1159" height="623" alt="image" src="https://github.com/user-attachments/assets/6a33d168-4823-4a02-a399-72d2367cbd3b" />
+
+
 ## License
 
 This project is created for educational purposes.
